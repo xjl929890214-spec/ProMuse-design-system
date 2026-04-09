@@ -1,0 +1,2008 @@
+{
+  "id": "VariableCollectionId:680:10908",
+  "name": "暗色 & 亮色",
+  "modes": [
+    "Light",
+    "Dark"
+  ],
+  "variables": [
+    {
+      "name": "Static - Neutral Color/Black/Black_L0_DFF_94",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#111111",
+        "Dark": "#fffffff0"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/White/White_L100_D0",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffff",
+        "Dark": "#111111"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Gray/Gray 50",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#767676",
+        "Dark": "#999999"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Divider/Divider_Primary_L93_DFF_14*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/93*"
+        },
+        "Dark": "#ffffff24"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Gray/Gray 25",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#444444",
+        "Dark": "#f3f3f3"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Gray/Gray 99*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#fcfcfe",
+        "Dark": "#2e3339"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Black/Black_L0_10_DFF_40",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#1111111a",
+        "Dark": "#ffffff66"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Black/Black_L0_60_D0_90",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#11111199",
+        "Dark": "#111111e5"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Alert/Red-50",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#f30a34",
+        "Dark": "#ff6269"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Success/Green-35",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#00b200",
+        "Dark": "#49c40e"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Success/Green-40*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#40c700",
+        "Dark": "#40c700"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Success/Green-85",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#caffb1",
+        "Dark": "#364d2b"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Alert/Red-40*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#cc002c",
+        "Dark": "#ffa1a5"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Black/Black_L0_4_DFF_8",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#1111110a",
+        "Dark": "#ffffff14"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Button/btn_shadow_secondary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/95"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/25"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "STROKE_COLOR",
+        "EFFECT_COLOR"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Gray/Gray 80",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#bbbbbb",
+        "Dark": "#555555"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Rating/Yellow_L65_D50*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffd24d",
+        "Dark": "#ffd24d"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Gray/Gray 30*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#555555",
+        "Dark": "#e8e8e8"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/White/White_L100_20_D0_20",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffff33",
+        "Dark": "#11111133"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/White/White_L100_80_D0_80",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffffcc",
+        "Dark": "#111111cc"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Warning/Orange-70",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#fb8b5a",
+        "Dark": "#fb8b5a"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Rating/Yellow-30",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#a26100",
+        "Dark": "#ffce4f"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Alert/Red-85",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#fcb1bd",
+        "Dark": "#8e162c"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Warning/Orange-30",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#aa4503",
+        "Dark": "#fb8b5a"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Rating/Yellow-60",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffb223",
+        "Dark": "#ffd24d"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Success/Green-30*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#068f2f",
+        "Dark": "#62bc83"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Success/Green-60*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#45e981",
+        "Dark": "#317711"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Rating/Yellow-50",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#f19900",
+        "Dark": "#f19900"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Gray/Gray 85*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#dddddd",
+        "Dark": "#444444"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Gray/Gray 60",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#919191",
+        "Dark": "#777777"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Alert/Red-100",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#fff8f9",
+        "Dark": "#2f0f18"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Warning/Orange-26",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#813604",
+        "Dark": "#fb8b5a"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Success/Green-100",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#f3fdf5",
+        "Dark": "#171b15"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Alert/Red-90",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffd8da",
+        "Dark": "#41151e"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Success/Green-90",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#e2ffd7",
+        "Dark": "#25341e"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Warning/Orange-85",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffc4b1",
+        "Dark": "#532914"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L95_D10",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/95"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/20"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Rating/Yellow-100",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#fffcf1",
+        "Dark": "#17140b"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Alert/Red-95",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#f6efe7",
+        "Dark": "#36282c"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Warning/Orange-65",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ff5c43",
+        "Dark": "#ff5c43"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Rating/Yellow-80",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffd495",
+        "Dark": "#54443b"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Rating/Yellow-95",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#fff9db",
+        "Dark": "#332500"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Gray/Gray 95*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#f3f3f3",
+        "Dark": "#2e3339"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Button/btn_bg_primary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "STROKE_COLOR",
+        "EFFECT_COLOR"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Success/Green-20",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#007022",
+        "Dark": "#e2ffd7"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Button/btn_shadow_primary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/50_100"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/50_100"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "STROKE_COLOR",
+        "EFFECT_COLOR"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Text*/Text_Primary_LFF_DFF",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffff",
+        "Dark": "#ffffff"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Link/Blue-95",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#edfaff",
+        "Dark": "#23334b"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Link/Blue-80",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#a1d8fd",
+        "Dark": "#1a3965"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Link/Blue-60",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#449fff",
+        "Dark": "#0c3f81"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Link/Blue-50",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#007aff",
+        "Dark": "#51a9fe"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Link/Blue-40",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#0060c8",
+        "Dark": "#a1d8fd"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Link/Blue-30",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#074387",
+        "Dark": "#409bff"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Link/Blue-20",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#022d5b",
+        "Dark": "#edfaff"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Page_bg/Page_bg_secondar",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffff",
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/10"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Success/Green-95",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#eefeec",
+        "Dark": "#1e2b1a"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Warning/Orange-45",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#bc6729",
+        "Dark": "#bc6729"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Warning/Orange-95",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#f6efe7",
+        "Dark": "#3e2010"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Warning/Orange-100",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#fbf7f4",
+        "Dark": "#231710"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Warning/Orange-84",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#e6cec6",
+        "Dark": "#6b3d24"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Warning/Orange-75",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#eb9d89",
+        "Dark": "#935427"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Success/Green-70",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#9ee37c",
+        "Dark": "#068f2f"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Black/Black_L0_2_DFF_2",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#11111105",
+        "Dark": "#ffffff05"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/White/White_L100_40_D0_40",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffff66",
+        "Dark": "#11111166"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/White/White_L100_D100",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffff",
+        "Dark": "#ffffff"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Black/Black_L0_55_DFF_50",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#1111118c",
+        "Dark": "#ffffff80"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Rating/Yellow-90",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#eee2d0",
+        "Dark": "#443730"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Progress bar/progress bar_secondary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/90"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/18"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L95_D35",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/95"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/35"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L100_D10",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/98"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/15"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L50_D70",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/50_100"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/70"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Pop-up_bg/pop_up_bg_primary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffff",
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/15"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Page_bg/Page_bg_primary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffff",
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/5"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Gray/Gray 10",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#222222",
+        "Dark": "#fcfcfe"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Pop-up_bg/pop_up_bg_secondary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffff",
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/10"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Card_bg/card_bg_normal",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "Static - Neutral Color/White/White_L100_D100"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/15"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Card_bg/card_shadow_normal",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/93*"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/20"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Button/btn_bg_secondary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/98"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/30"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "STROKE_COLOR",
+        "EFFECT_COLOR"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Icon(*)/icon_default_primary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/70"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L60_D15",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/15"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L50_D35",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/50_100"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/35"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Text*/Text_Primary_LFF_80_DFF",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffffcc",
+        "Dark": "#ffffff"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L35_D35",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/35"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/35"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L15_D5",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/15"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/5"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Button/ios_btn_bg",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#111111",
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/5"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "STROKE_COLOR",
+        "EFFECT_COLOR"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Button/ios_btn_shadow",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#11111199",
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/15"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "STROKE_COLOR",
+        "EFFECT_COLOR"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L70_D70",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/70"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/70"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L80_D25",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/80"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/25"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Alert/Red-96",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffe9ea",
+        "Dark": "#2f2125"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/White/White_L100_90_D0_70",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffffe5",
+        "Dark": "#111111b2"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L70_20_D70_20",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/70_20"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/70_20"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/double_L60_D60",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "two_color/solid_color_60"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "two_color/solid_color_60"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Alert/Red-30",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#8d001f",
+        "Dark": "#ffccce"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L80_D24",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/80"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/35"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Text*/Text_Primary_L60_D70",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/70"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Text*/Text_Secondary_L5_DFF",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/5"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/100*"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Gray/Gray 53*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#7d8790",
+        "Dark": "#888888"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L50_D35_70",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/50_75"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/35_75_2"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L50_D35_0",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/50_0"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/35_0"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Success/Green-80",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#c5e0b8",
+        "Dark": "#374e2c"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Link/Blue-85",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#b8d3e6",
+        "Dark": "#2e466b"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Relfection/LFF_80_DFF_10",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffffcc",
+        "Dark": "#ffffff1a"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Relfection/LFF_20_DFF_5",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffff33",
+        "Dark": "#ffffff0d"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Text*/Text_Secondary_L5_D5",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/5"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/5"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Progress bar/progress bar_primary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Card_bg/card_bg_Secondary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "Static - Neutral Color/Black/Black_L0_4_DFF_8"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/20"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Card_bg/card_shadow_Secondary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/90"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/25"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Card_bg/card_bg_special",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "two_color/solid_color_98"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/25"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Card_bg/card_shadow_special",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/90"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/15"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Card_bg/active_card_bg",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60_30"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/10"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Card_bg/active_card_shadow",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/50_75"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/50_100"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/White/White_L100_0_D5_0",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffff00",
+        "Dark": "#00000000"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Relfection/LFF_50_DFF_5",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffff80",
+        "Dark": "#ffffff0d"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Button/btn_bg_Ternary*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "Static - Neutral Color/White/White_L100_D0"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/15"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "STROKE_COLOR",
+        "EFFECT_COLOR"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Button/btn_shadow_Ternary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/90"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/25"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "STROKE_COLOR",
+        "EFFECT_COLOR"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Icon(*)/icon_disable",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60_30"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/50_75"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Icon(*)/icon_press_primary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/50_100"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/80"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Divider/Divider_Secondary_LFF_D0",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffffff",
+        "Dark": "#111111"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/double_L90_D5",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "two_color/grayish_90"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "two_color/grayish_5"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/double_L95_D5",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "two_color/solid_color_95"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "two_color/grayish_5"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Dialog*/Dialog",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "two_color/grayish_96_xin"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/35"
+        }
+      },
+      "scopes": []
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L88_D25*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/88"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/25"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Icon(*)/icon_default_secondary*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "Static - Neutral Color/Black/Black_L0_DFF_94"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/80"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Loading_new/01",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#eef0f2",
+        "Dark": "#777777"
+      },
+      "scopes": []
+    },
+    {
+      "name": "Dynamic_Scheme Color/Loading_new/02",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#f1f3f4",
+        "Dark": "#555555"
+      },
+      "scopes": []
+    },
+    {
+      "name": "Dynamic_Scheme Color/Loading_new/03",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#f3f5f6",
+        "Dark": "#444444"
+      },
+      "scopes": []
+    },
+    {
+      "name": "Dynamic_Scheme Color/Loading_new/04",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#f6f8f8",
+        "Dark": "#2e3339"
+      },
+      "scopes": []
+    },
+    {
+      "name": "Static - Neutral Color/Gray/Gray 40*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#666666",
+        "Dark": "#dddddd"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Text*/Text_Primary_L60_D60",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Button/btn_bg_disable*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "Static - Neutral Color/Gray/Gray 95*"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/35"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "STROKE_COLOR",
+        "EFFECT_COLOR"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Button/btn_shadow_disable*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "Static - Neutral Color/Gray/Gray 85*"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/30"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "STROKE_COLOR",
+        "EFFECT_COLOR"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Text*/Text_Disable_text_L80_D60*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "Static - Neutral Color/Gray/Gray 80"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/60*"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Input*/input*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "Static - Neutral Color/Black/Black_L0_4_DFF_8"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/15"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Icon(*)/icon_disable_secondary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "Static - Neutral Color/Gray/Gray 80"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/30"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Mask/Mask*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "Static - Neutral Color/Black/Black_L0_60_D0_90"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "Static - Neutral Color/Black/Black_L0_60_D0_90"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Warning/Orange-65_2",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ff5c43",
+        "Dark": "#290500"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Rating/Yellow_L65_D10",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffd24d",
+        "Dark": "#1e1815"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Rating/Yellow-70",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#fff566",
+        "Dark": "#2d2420"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Special gradient colors/L100_D90*",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/98"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/70"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Neutral Color/Black/Black_L0_D15",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#111111",
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/15"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Logo*/LOGO_Primary_L60_DFF",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/100*"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Text*/Text_Ternary_L30_D90",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "Static - Neutral Color/Gray/Gray 30*"
+        },
+        "Dark": "#e8e8e8"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Static - Functional color/Rating/Yellow_L65_D65",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": "#ffd24d",
+        "Dark": "#ffd24d"
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Divider/Divider_brand_L60_D70",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/70"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Card_bg/card_bg_primary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/60"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Card_bg/card_shadow_primary",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/50_100"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "solid_color/50_100"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "name": "Dynamic_Scheme Color/Icon(*)/icon_disable_special",
+      "type": "COLOR",
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "name": "Static - Neutral Color/Gray/Gray 60"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "name": "grayish/60*"
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    }
+  ]
+}
